@@ -1,6 +1,6 @@
-# Ask-her-out
+# Ask-Miss-Sundar-out
 
-<h1 align="center"> AskHerOut.js 🌹</h1>
+<h1 align="center"> AskMissSundarOut.js 🌹</h1>
 
 ## 📖 Description
 
